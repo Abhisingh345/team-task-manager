@@ -6,9 +6,9 @@ A full-stack web application for team collaboration — create projects, assign 
 
 ## 🎯 Assignment Submission
 
-- **Live URL:** [Insert Railway Frontend URL here]
+- **Live URL:** [https://frontend-production-88c1.up.railway.app](https://frontend-production-88c1.up.railway.app)
 - **GitHub Repo:** [https://github.com/Abhisingh345/team-task-manager](https://github.com/Abhisingh345/team-task-manager)
-- **Demo Video:** [Insert Demo Video Link here]
+- **Backend API:** [https://backend-production-0426.up.railway.app](https://backend-production-0426.up.railway.app)
 
 ---
 
