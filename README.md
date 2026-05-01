@@ -4,6 +4,14 @@ A full-stack web application for team collaboration — create projects, assign 
 
 ---
 
+## 🎯 Assignment Submission
+
+- **Live URL:** [Insert Railway Frontend URL here]
+- **GitHub Repo:** [https://github.com/Abhisingh345/team-task-manager](https://github.com/Abhisingh345/team-task-manager)
+- **Demo Video:** [Insert Demo Video Link here]
+
+---
+
 ## 📁 Folder Structure
 
 ```
